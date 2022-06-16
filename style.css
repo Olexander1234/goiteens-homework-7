@@ -1,0 +1,82 @@
+/* /* primary-color: color #212121;
+ text-color: color: #757575
+ secondary-color: color: #FFFFF */
+ /* Header */
+ .logo{
+    color: #000000;
+}
+.logo-span,
+.nav-link:hover,,
+.link-list:hover,
+.link-list:focus,
+.logo-span{ 
+color: #2196F3;
+}  
+.link {
+    color:#212121 ;
+}
+.nav-link:hover {
+    color:#2196F3
+}
+.link-item{
+    color: #212121;
+} 
+.nav-link-item:hover{
+    color: #2196F3;
+}
+.link-king{
+    color: #757575;
+}
+.link-king:hover{
+    color:#2196F3 ;
+}
+.hero-section{
+    background-color:#2F303A;
+}
+.doom{
+    color: aliceblue;
+}
+.king{ color: #212121;
+
+}
+.king-intem {
+    color: #757575;
+}
+.boot{
+    color: #212121;
+}
+.boot-input{
+color: #212121}
+.{
+    color: #000000;
+}
+.input-color{
+    color: #2196F3;
+}
+.psps {
+    color: crimson;
+}
+.proo:hover{
+    color: #2196F3;
+}
+.proo{
+    color: #212121;
+}
+.vip{
+    color: aliceblue;
+}
+.vip-studio{
+    color:#2196F3 ;
+}
+.web{
+    background-color:#2F303A ;
+}
+.link-item:hover{
+    color: #2196F3;
+}
+.logo{
+    color: #000000;
+}
+.logo-span{
+    color: #2196F3;
+}
