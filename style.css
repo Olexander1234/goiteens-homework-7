@@ -457,6 +457,10 @@ line-height: 30px
     text-align: center;
     padding-bottom: 200px;
     padding-top: 200px;
+    background-image: linear-gradient( to right 
+rgba(47, 48, 58, 0.4),
+rgba(47, 48, 58, 0.4);
+     ) url( " ./" ); 
 }
 .ovoch div + div{
     display: flex;
@@ -582,6 +586,9 @@ margin-right: 30px;
     margin-top: 30px;
     margin-right: 215px;
     margin-bottom: 95px;
+}
+.hero{
+
 }
 .q {
     flex-basis: calc((100% - 90px) / 3);
